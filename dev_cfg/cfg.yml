@@ -1,0 +1,6 @@
+debug: true
+prefix:     ""
+address:    "localhost:6379"
+db:         1
+password:   ""
+defaulTtl: 10m
